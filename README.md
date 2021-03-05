@@ -1,5 +1,5 @@
 # asp-sample
 
-Классы с реализацией
-Services/PortfolioService.cs
-Controllers/PortfolioController.cs
+Классы с реализацией:
+* Services/PortfolioService.cs
+* Controllers/PortfolioController.cs
